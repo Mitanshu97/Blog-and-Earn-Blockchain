@@ -1,0 +1,31 @@
+.container-fluid{
+	background-color: #FBF9F3;
+}
+
+.content {
+
+	max-width: 1200px;
+	margin: auto;
+	align-self: left;
+
+}
+
+.card-header {
+	background-color: #E3F7C9;
+	border-bottom: 1px solid black;
+	}
+
+.text-muted {
+		font-weight: bolder;
+}
+.card {
+	border: 1px solid black;
+}
+
+.list-group-item {
+	border-top: 1px solid black;
+}
+
+.form-group {
+
+}
